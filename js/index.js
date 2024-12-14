@@ -10,8 +10,8 @@ const minute = document.querySelector('.minutes');
 const second = document.querySelector('.seconds');
 
 
-const a="19";
-const b="December";
+const a="23";
+const b="September";
 
 const months = [
   "january",
